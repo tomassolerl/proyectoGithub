@@ -5,10 +5,10 @@
  */
 package proyectogithub;
 
-/**
- *
- * @author usuario
- */
+/*
+    Autor: Tomás Soler Linares
+    Versión: 1.0
+*/
 public class ProyectoGithub {
 
     public static String veredicto(String valor1, String valor2){
